@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBLab01", "ADBLab01\ADBLab01.csproj", "{F68FD606-E2B3-4F74-B9AA-BD30B01A4DCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBLab05-CompanyManager", "Lab05-CompanyManager\ADBLab05-CompanyManager.csproj", "{FF534EB8-2EDC-45D6-B03F-069578DD6ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F68FD606-E2B3-4F74-B9AA-BD30B01A4DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F68FD606-E2B3-4F74-B9AA-BD30B01A4DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F68FD606-E2B3-4F74-B9AA-BD30B01A4DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF534EB8-2EDC-45D6-B03F-069578DD6ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF534EB8-2EDC-45D6-B03F-069578DD6ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF534EB8-2EDC-45D6-B03F-069578DD6ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF534EB8-2EDC-45D6-B03F-069578DD6ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
